@@ -1,9 +1,11 @@
 - Hi, I’m @AeroCaptain
 - I’m interested in security systems, SIEM, Cybersecurity related topcis, and Mechanical Engineering
-- I’m studying for the Security+ Exam
-- I'm looking
+- I’m studying Python3 and for the Network+ exam currently.
+- I'm looking to change my career and get into cyber security
 - How to reach me 
-  josh.reed5550@gmail.com
+  joshua.reed5550@gmail.com
+  
+- Now that I'm finished with the Security+ Exam, I'm going to start creating more projects and posting them here soon.
 
 <!---
 AeroCaptain/AeroCaptain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
